@@ -5,7 +5,6 @@ public class Movie {
 	private int rating;
 	private String title;
 	private String imdb;
-	private ArrayList<String> genre = new ArrayList<String>();
 	private String director;
 	private ArrayList<String> actors = new ArrayList<String>();
 	private boolean liked = false;
